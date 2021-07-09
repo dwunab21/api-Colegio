@@ -9,7 +9,7 @@ async function bootstrap() {
   
   const config = new DocumentBuilder()
     .setTitle('API Colegio')
-    .setDescription('Api promedio colegio')
+    .setDescription('Api para notas')
     .setVersion('1.0')
     .addTag('Alumnos')
     .build();
